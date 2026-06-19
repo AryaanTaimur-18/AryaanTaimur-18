@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aryaan 👋
+
+🎓 CS Student at FAST-NUCES Karachi
+
+💻 Interested in:
+- AI & LLM Applications
+- Full Stack Development
+- Competitive Programming
+
+🚀 Currently Learning:
+- Python
+- JavaScript
+- Data Structures & Algorithms
+
+📫 Connect with me:
+LinkedIn: https://www.linkedin.com/in/aryaan-taimur-saeed-b380b73a0/
 
 <!--
 **AryaanTaimur-18/AryaanTaimur-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
